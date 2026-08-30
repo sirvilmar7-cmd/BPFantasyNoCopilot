@@ -1,0 +1,6 @@
+flask
+flask-cors
+nba_api
+numpy
+pandas
+gunicorn

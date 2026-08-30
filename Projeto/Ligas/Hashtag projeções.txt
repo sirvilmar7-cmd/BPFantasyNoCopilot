@@ -1,0 +1,3606 @@
+Hashtag Basketball
+Rankings
+Projections
+Schedule
+Dynasty
+Other
+Premium
+Support
+Network
+Logout
+Fantasy Basketball Projections
+Fantasy basketball projections and rest of season rankings for the 2026-27 NBA season with the ability to customize rankings by category and rank type.
+Updated: 27 August 2026 by Joseph Mamone ()
+Show
+
+All
+Min GP
+
+1
+Z Score
+
+Off
+Position
+
+All
+Pos & ADP
+
+ESPN
+Team
+
+All
+Data From
+
+2026-27 Rest of Season Projections
+Based On
+
+Averages
+Type
+
+H2H
+GP Penalty
+
+20%
+Categories & Multipliers
+
+FGM
+
+x 1
+
+FG%
+
+x 1
+
+FTM
+
+x 1
+
+FT%
+
+x 1
+
+3PM
+
+x 1
+
+3P%
+
+x 1
+
+PTS
+
+x 1
+
+A/TO
+
+x 1
+
+DREB
+
+x 1
+
+OREB
+
+x 1
+
+TREB
+
+x 1
+
+AST
+
+x 1
+
+STL
+
+x 1
+
+BLK
+
+x 1
+
+TO
+
+x 1
+
+DD
+
+x 1
+Definitions:
+TOTAL
+GP
+ADP
+Data:
+PROJECTIONS
+BLEND7
+BLEND14
+Types:
+STANDARD
+H2H
+MINUS 1
+Performance:
+Elite
+Very Good
+Good
+Average
+Below Avg
+Not Good
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+1  1	Victor Wembanyama	2.9	C	SA	66	30.4	2.2
+25.6
+11.8
+3.6
+1.1
+3.2
+2.9
+10.74
+2  1	Nikola Jokic	1.8	C	DEN	72	35.1	1.8
+28.4
+12.7
+10.4
+1.6
+0.7
+3.5
+9.36
+3  1	Luka Doncic	4.6	PG	LAL	68	35.4	4.0
+32.7
+8.7
+8.8
+1.7
+0.5
+4.0
+9.16
+4  1	Shai Gilgeous-Alexander	3.1	PG	OKC	71	33.5	1.9
+32.1
+4.7
+6.5
+1.6
+0.9
+2.3
+6.48
+5  2	Jayson Tatum	11.4	SF/PF	BOS	68	33.7	3.3
+26.1
+8.8
+6.1
+1.2
+0.5
+2.8
+6.08
+6  8	Tyrese Haliburton	73.7	PG/SG	IND	63	30.9	2.8
+17.3
+3.3
+9.6
+1.3
+0.6
+1.5
+5.88
+7  5	Anthony Davis	12.6	PF/C	WAS	65	31.1	0.6
+22.5
+10.9
+3.2
+1.1
+1.9
+2.1
+5.75
+8  1	Tyrese Maxey	16.6	PG/SG	PHI	70	36.1	2.8
+24.2
+3.4
+5.8
+1.8
+0.5
+2.2
+5.15
+9  4	Giannis Antetokounmpo	5.3	PF/C	MIA	69	34.2	0.3
+31.4
+11.9
+6.5
+1.0
+1.1
+3.3
+5.02
+10  4	Cade Cunningham	8.2	PG	DET	68	33.9	2.0
+25.0
+5.8
+9.8
+1.3
+0.8
+4.1
+4.69
+11  3	Anthony Edwards	6.8	SG/SF	MIN	74	35.3	3.7
+28.7
+5.6
+3.5
+1.2
+0.7
+3.0
+4.66
+12  1	Donovan Mitchell	21.9	PG/SG	CLE	72	33.4	3.3
+26.9
+4.7
+5.4
+1.5
+0.3
+2.6
+4.65
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+13  9	Scottie Barnes	29.6	SG/SF	TOR	80	34.2	1.0
+19.4
+7.9
+6.1
+1.5
+1.3
+2.8
+4.64
+14  28	Derrick White	55.0	PG/SG	BOS	75	33.8	3.1
+16.5
+4.5
+5.1
+1.1
+1.2
+1.7
+4.61
+15  11	Evan Mobley	34.2	PF/C	CLE	72	32.5	1.1
+19.3
+9.6
+3.6
+0.8
+1.8
+2.1
+4.50
+16  2	Jalen Johnson	32.3	PF	ATL	72	35.1	1.5
+21.4
+10.2
+6.9
+1.4
+0.6
+3.3
+4.43
+17	Cooper Flagg	23.3	SF/PF	DAL	72	34.1	1.3
+23.3
+7.3
+4.9
+1.3
+1.0
+2.2
+4.43
+18  5	Chet Holmgren	43.3	PF/C	OKC	70	29.7	1.4
+17.3
+9.1
+1.9
+0.7
+2.1
+1.7
+4.26
+19  2	Trey Murphy III	74.5	SG/SF	NO	68	35.2	3.2
+21.6
+5.5
+3.7
+1.3
+0.5
+1.9
+4.08
+20  10	Stephen Curry	21.1	PG	GS	60	31.6	4.4
+25.4
+3.6
+5.2
+1.0
+0.4
+2.9
+3.91
+21  7	Jaren Jackson Jr.	73.9	PF/C	UTA	67	30.7	2.0
+21.8
+5.8
+2.1
+1.2
+1.5
+2.2
+3.79
+22  7	Jamal Murray	36.7	PG	DEN	73	34.8	2.8
+23.2
+4.1
+6.5
+1.1
+0.4
+2.1
+3.73
+23  29	Bam Adebayo	30.0	PF/C	MIA	74	33.4	1.4
+19.3
+9.9
+3.8
+1.2
+0.7
+1.9
+3.72
+24  29	Paul George	96.7	SF/PF	BOS	58	31.2	2.6
+17.1
+5.4
+4.1
+1.8
+0.5
+2.2
+3.55
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+25  38	Donovan Clingan	105.3	C	POR	74	27.2	1.1
+11.4
+11.4
+1.9
+0.6
+1.8
+1.3
+3.50
+26  7	Kawhi Leonard	49.2	SF/PF	TOR	65	31.1	2.2
+23.7
+5.0
+3.0
+1.7
+0.4
+1.9
+3.39
+27  8	Josh Giddey	31.6	PG/SG	CHI	70	32.0	1.8
+16.3
+8.5
+8.4
+1.2
+0.6
+3.3
+3.39
+28  38	Naz Reid	99.5	PF/C	CHA	74	30.8	2.5
+16.2
+7.1
+2.6
+1.0
+1.1
+1.7
+3.29
+29  80	Alexandre Sarr	93.6	PF/C	WAS	68	28.8	1.5
+15.4
+7.4
+2.7
+0.8
+1.8
+1.8
+3.18
+30  26	Matas Buzelis	121.2	SF/PF	CHI	75	31.3	2.4
+17.2
+6.4
+2.1
+0.8
+1.7
+2.1
+3.15
+31  19	Alperen Sengün	31.7	C	HOU	72	33.3	0.4
+20.5
+10.0
+5.7
+1.2
+1.0
+3.0
+3.13
+32  2	Walker Kessler	77.2	C	LAL	68	30.2	0.5
+11.8
+10.8
+1.8
+0.7
+2.2
+1.9
+3.12
+33  14	Onyeka Okongwu	93.1	C	ATL	74	31.1	1.4
+15.2
+8.8
+2.9
+1.1
+1.1
+1.6
+3.07
+34  17	Kel'el Ware	127.5	C	MIL	74	27.9	1.1
+13.0
+10.5
+1.1
+0.9
+1.4
+1.1
+3.06
+35  3	Lauri Markkanen	86.2	SF/PF	UTA	65	34.1	3.0
+23.8
+6.7
+1.9
+0.9
+0.5
+1.5
+2.96
+36  3	Jalen Williams	32.9	SF/PF	OKC	68	31.2	1.5
+20.4
+5.2
+5.3
+1.5
+0.6
+2.1
+2.93
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+37  8	Amen Thompson	20.0	SG/SF	HOU	76	36.2	0.4
+18.1
+7.9
+4.2
+1.5
+1.0
+2.2
+2.90
+38  14	James Harden	17.7	PG/SG	CLE	72	33.4	2.6
+20.0
+4.6
+8.2
+1.1
+0.5
+3.4
+2.85
+39  23	Karl-Anthony Towns	14.6	C	NY	73	31.3	1.7
+21.3
+11.8
+2.9
+0.9
+0.6
+2.5
+2.84
+40  8	LaMelo Ball	31.8	PG	MIN	65	29.2	2.9
+19.4
+4.5
+7.1
+1.3
+0.2
+2.8
+2.84
+41  27	Pascal Siakam	24.2	PF	IND	72	34.5	1.8
+23.2
+7.2
+3.8
+1.1
+0.5
+1.9
+2.78
+42  17	Kristaps Porzingis	100.6	PF/C	GS	51	26.0	2.1
+17.9
+6.0
+2.2
+0.7
+1.3
+1.3
+2.74
+43  31	Immanuel Quickley	119.5	PG/SG	TOR	70	32.0	2.7
+17.6
+4.1
+6.2
+1.2
+0.1
+1.6
+2.68
+44  46	Ausar Thompson	110.0	SF/PF	DET	74	28.2	0.2
+11.6
+6.4
+3.2
+2.2
+1.0
+1.7
+2.65
+45  10	Brandon Miller	102.1	SG/SF	CHA	69	31.4	3.4
+20.6
+4.9
+3.5
+1.0
+0.7
+2.6
+2.63
+46  8	Jalen Suggs	132.2	PG/SG	ORL	60	28.4	2.2
+15.1
+4.0
+4.9
+1.7
+0.8
+2.8
+2.62
+47  48	Keegan Murray	128.5	SF/PF	SAC	72	34.2	2.2
+16.1
+6.5
+1.5
+0.9
+1.1
+1.0
+2.62
+48  32	Dyson Daniels	61.2	PG/SG	ATL	75	32.3	0.6
+11.8
+6.1
+4.7
+2.1
+0.5
+1.7
+2.61
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+49  19	Dejounte Murray	126.5	PG/SG	NO	65	30.7	1.6
+17.3
+6.1
+7.1
+1.8
+0.3
+3.4
+2.58
+50  8	OG Anunoby	70.3	SF/PF	NY	68	33.2	2.2
+16.7
+4.8
+2.1
+1.5
+0.8
+1.5
+2.55
+51  47	Myles Turner	76.2	C	MIL	70	27.4	2.1
+13.3
+5.8
+1.5
+0.7
+1.8
+1.4
+2.38
+52  36	VJ Edgecombe	106.1	SG	PHI	74	34.1	2.0
+15.7
+5.6
+4.1
+1.4
+0.5
+1.8
+2.38
+53  8	Nickeil Alexander-Walker	112.2	PG/SG	ATL	76	33.0	3.0
+19.6
+3.8
+3.6
+1.1
+0.5
+1.9
+2.37
+54  35	Andrew Wiggins	94.5	SF/PF	MIA	68	31.4	2.2
+17.2
+4.9
+2.8
+1.1
+1.0
+1.6
+2.36
+55  28	Kyrie Irving	92.2	PG	DAL	55	31.8	2.4
+20.7
+4.0
+4.9
+1.1
+0.4
+1.9
+2.35
+56  45	Kevin Durant	25.8	SF/PF	HOU	70	34.6	2.3
+24.7
+5.4
+4.3
+0.8
+1.0
+2.9
+2.27
+57  76	Fred VanVleet	138.1	PG/SG	HOU	60	31.2	2.4
+12.6
+3.3
+5.0
+1.4
+0.4
+1.3
+2.19
+58  33	Austin Reaves	52.9	PG/SG	LAL	70	34.4	2.6
+21.5
+4.6
+5.7
+1.1
+0.3
+2.6
+2.15
+59  39	Trae Young	21.8	PG	WAS	70	33.4	2.7
+22.8
+2.9
+10.8
+1.1
+0.2
+4.3
+2.10
+60  44	Cason Wallace	136.5	PG/SG	OKC	78	30.4	1.4
+9.6
+3.7
+2.9
+2.1
+0.5
+1.0
+2.07
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+61  23	Darius Garland	90.7	PG	LAC	68	31.4	2.9
+20.8
+2.8
+7.0
+1.2
+0.2
+2.8
+2.05
+62  21	LeBron James	13.6	SF/PF	PHI	60	32.1	1.5
+20.3
+6.2
+7.4
+1.0
+0.5
+3.0
+1.99
+63  55	Reed Sheppard	103.5	PG/SG	HOU	74	25.8	2.6
+12.5
+2.9
+3.3
+1.5
+0.7
+1.5
+1.93
+64  18	Franz Wagner	52.0	SF/PF	ORL	64	32.5	1.6
+23.2
+5.6
+4.3
+1.2
+0.4
+2.1
+1.86
+65  21	Jalen Brunson	20.4	PG	NY	72	34.2	2.5
+25.5
+3.1
+6.9
+0.8
+0.1
+2.4
+1.80
+66  1	Ryan Rollins	121.1	PG/SG	MIL	72	30.1	2.2
+15.5
+4.2
+4.9
+1.5
+0.5
+2.4
+1.77
+67  10	Rudy Gobert	88.6	C	MIN	74	31.5	0.0
+11.3
+11.1
+1.7
+0.8
+1.5
+1.3
+1.75
+68  47	Caleb Wilson	119.5	SF	CHI	72	30.4	1.0
+15.2
+8.0
+2.0
+1.2
+1.0
+1.8
+1.74
+69  33	Paolo Banchero	36.4	SF/PF	ORL	73	35.2	1.5
+24.3
+8.3
+5.2
+0.8
+0.6
+3.1
+1.71
+70  34	Zach Edey	126.6	C	MEM	65	25.8	0.3
+13.3
+10.3
+1.2
+0.7
+1.8
+1.8
+1.69
+71  38	Desmond Bane	50.2	SG/SF	ORL	76	33.6	2.2
+19.4
+4.9
+4.6
+1.1
+0.4
+2.2
+1.69
+72  2	Jaden McDaniels	97.7	SF/PF	MIN	74	32.8	1.5
+15.3
+5.8
+2.7
+1.1
+1.0
+1.7
+1.68
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+73  19	Payton Pritchard	99.7	PG/SG	BOS	77	32.5	3.2
+16.9
+3.4
+4.7
+0.8
+0.2
+1.3
+1.67
+74  17	Kon Knueppel	86.5	SG/SF	CHA	74	32.3	3.5
+19.2
+5.5
+3.5
+0.7
+0.2
+2.1
+1.63
+75  39	Jabari Smith Jr.	128.7	PF/C	HOU	75	35.2	2.2
+15.4
+7.5
+1.6
+0.7
+0.9
+1.3
+1.63
+76  33	Tyler Herro	79.8	PG/SG	MIL	64	31.8	2.9
+21.5
+4.8
+4.8
+0.8
+0.3
+2.2
+1.61
+77  2	Michael Porter Jr.	64.1	SF/PF	BKN	60	32.0	2.8
+19.8
+6.8
+2.4
+0.8
+0.4
+1.9
+1.55
+78  34	Brandin Podziemski	137.2	PG/SG	GS	78	31.0	2.1
+14.5
+5.8
+4.1
+1.2
+0.2
+1.6
+1.45
+79  37	Mitchell Robinson	138.5	C	BOS	65	22.8	0.0
+6.7
+9.8
+1.0
+1.1
+1.4
+0.8
+1.42
+80  6	Josh Hart	59.1	SG/SF	NY	68	31.5	1.2
+12.0
+8.0
+5.0
+1.3
+0.3
+1.9
+1.42
+81  43	Toumani Camara	130.4	SF/PF	POR	80	33.1	2.2
+12.6
+5.5
+2.4
+1.3
+0.5
+1.6
+1.39
+82  22	Damian Lillard	82.5	PG	POR	55	28.2	3.1
+19.1
+3.5
+5.0
+0.9
+0.1
+2.1
+1.33
+83  47	Devin Vassell	125.0	SG/SF	SA	68	30.5	2.5
+15.1
+4.0
+2.7
+1.1
+0.4
+1.1
+1.32
+84  5	De'Aaron Fox	42.3	PG/SG	SA	72	30.5	1.7
+19.3
+3.9
+5.8
+1.2
+0.3
+2.3
+1.28
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+85  58	P.J. Washington	139.2	SF/PF	DAL	68	30.4	1.4
+14.0
+7.2
+2.0
+1.0
+1.0
+1.8
+1.22
+86  10	Jaylen Brown	17.4	SG/SF	PHI	70	33.1	1.7
+22.6
+5.7
+3.4
+1.1
+0.5
+2.5
+1.22
+87  18	Sandro Mamukelashvili	140.0	PF/C	LAL	74	25.8	1.9
+13.7
+6.2
+2.1
+0.9
+0.6
+1.0
+1.21
+88  37	Collin Gillespie	139.7	PG	PHO	75	26.4	2.6
+11.7
+3.9
+4.4
+1.2
+0.2
+1.4
+1.19
+89  7	Day'Ron Sharpe	139.9	C	BKN	68	28.2	0.3
+11.9
+9.4
+3.0
+1.4
+0.9
+2.2
+1.14
+90  50	Domantas Sabonis	19.5	PF/C	SAC	70	30.7	0.7
+17.0
+12.3
+5.2
+0.7
+0.3
+2.6
+1.13
+91  54	Jalen Duren	67.2	C	DET	70	28.4	0.0
+17.7
+11.1
+2.5
+0.8
+0.9
+1.9
+1.10
+92  43	CJ McCollum	98.0	PG/SG	ATL	73	30.0	2.7
+19.3
+3.4
+3.9
+0.8
+0.4
+1.8
+1.09
+93  32	Brandon Ingram	86.5	SF/PF	LAC	72	34.1	1.9
+22.1
+5.7
+4.1
+0.8
+0.7
+2.8
+1.08
+94	Isaiah Hartenstein	121.4	C	OKC	68	26.4	0.0
+10.5
+10.3
+3.8
+0.9
+1.0
+1.7
+0.98
+95  12	Miles Bridges	75.8	SF/PF	PHO	72	30.1	2.0
+18.0
+6.4
+3.4
+0.6
+0.5
+1.7
+0.96
+96  36	Jusuf Nurkic	138.1	C	UTA	58	26.4	0.7
+11.2
+10.2
+3.9
+1.1
+0.7
+2.5
+0.95
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+97  33	Cameron Boozer	117.2	PF	MEM	70	30.4	1.2
+17.2
+7.0
+3.9
+1.1
+0.6
+2.5
+0.94
+98  10	Collin Murray-Boyles	139.5	PF	TOR	68	28.0	0.4
+11.0
+6.5
+2.4
+1.2
+1.2
+1.3
+0.94
+99  40	Peyton Watson	137.7	SF/PF	CLE	70	30.1	1.2
+12.5
+4.7
+1.9
+0.9
+1.4
+1.4
+0.93
+100  22	Draymond Green	118.1	PF/C	GS	68	28.8	1.4
+8.9
+6.0
+5.7
+1.2
+0.9
+2.7
+0.88
+101  2	Mikal Bridges	69.9	SG/SF	NY	80	32.5	1.8
+15.0
+3.3
+3.5
+1.0
+0.6
+1.2
+0.86
+102  37	Ty Jerome	131.3	PG/SG	MEM	60	27.4	2.2
+16.4
+3.0
+4.5
+1.3
+0.1
+1.7
+0.85
+103  72	Devin Booker	20.3	PG/SG	PHO	68	33.5	2.1
+24.6
+3.8
+6.3
+0.8
+0.2
+2.9
+0.81
+104  37	Kyshawn George	136.0	SG/SF	WAS	68	29.0	2.0
+11.9
+4.9
+3.5
+1.1
+0.9
+2.0
+0.79
+105  18	Nicolas Claxton	119.3	C	CHI	70	28.4	0.1
+11.6
+7.5
+3.1
+0.8
+1.3
+1.4
+0.77
+106  37	Ivica Zubac	39.1	C	IND	72	30.4	0.0
+15.2
+11.5
+2.4
+0.6
+1.0
+1.6
+0.71
+107  29	Deni Avdija	64.4	SF/PF	POR	68	33.3	1.7
+19.6
+6.8
+5.0
+0.9
+0.5
+3.1
+0.69
+108  34	Anthony Black	136.3	PG/SG	ORL	68	30.4	1.3
+13.7
+3.8
+3.9
+1.4
+0.8
+2.2
+0.63
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+109  37	Tari Eason	136.1	SF/PF	HOU	60	24.2	1.3
+10.8
+6.1
+1.4
+1.4
+0.6
+1.2
+0.63
+110  14	Cameron Johnson	139.3	SF/PF	DEN	60	30.8	2.4
+15.6
+4.1
+2.9
+0.8
+0.4
+1.3
+0.62
+111  29	Jalen Green	71.0	SG/SF	PHO	69	31.1	2.7
+20.4
+4.4
+3.3
+0.9
+0.3
+2.5
+0.60
+112  13	Norman Powell	101.1	SG/SF	CHI	65	29.6	2.7
+20.9
+3.2
+2.2
+1.1
+0.2
+1.8
+0.59
+113  51	Jimmy Butler III	83.2	SG/SF	GS	25	27.5	0.6
+16.4
+4.8
+4.6
+1.3
+0.3
+1.3
+0.54
+114  38	RJ Barrett	100.5	SG/SF	TOR	58	31.5	1.8
+20.5
+5.9
+4.5
+0.8
+0.3
+2.3
+0.54
+115  30	Keyonte George	108.2	PG/SG	UTA	70	31.9	2.6
+19.9
+3.7
+6.1
+0.9
+0.2
+2.9
+0.52
+116  41	Santi Aldama	132.1	SF/PF	DAL	64	26.5	1.8
+13.2
+5.1
+2.9
+0.8
+0.6
+1.2
+0.41
+117  26	Ajay Mitchell	139.5	PG/SG	OKC	68	30.1	1.2
+14.8
+3.8
+4.0
+1.4
+0.3
+1.6
+0.40
+118  20	Egor Demin	132.7	PG/SG	BKN	69	29.5	2.6
+13.2
+3.7
+4.0
+1.0
+0.4
+2.1
+0.38
+119  18	Derik Queen	133.9	PF/C	NO	80	27.5	0.3
+12.8
+7.7
+4.0
+1.1
+1.0
+2.6
+0.36
+120  14	Dylan Harper	99.4	PG/SG	SA	72	29.5	1.2
+15.6
+4.5
+5.1
+1.0
+0.5
+1.9
+0.35
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+121  10	Saddiq Bey	138.4	SF/PF	NO	72	29.2	2.0
+16.7
+5.3
+2.4
+0.9
+0.1
+0.9
+0.34
+122  4	Gui Santos	140.0	SF	GS	72	30.1	1.6
+12.0
+6.2
+3.4
+1.2
+0.5
+2.0
+0.29
+123  28	Stephon Castle	74.1	PG/SG	SA	70	31.4	1.3
+17.5
+5.0
+6.3
+1.2
+0.3
+3.0
+0.28
+124  5	Paul Reed	140.0	PF/C	DET	69	17.9	0.3
+9.3
+5.6
+1.7
+1.3
+1.2
+1.1
+0.27
+125  42	Jarrett Allen	66.7	C	CLE	70	26.9	0.0
+13.8
+8.9
+1.8
+0.9
+0.8
+1.2
+0.27
+126  54	John Collins	114.8	PF/C	DET	70	28.9	1.4
+16.0
+6.6
+1.4
+0.9
+0.9
+1.9
+0.26
+127  10	Cedric Coward	139.6	SG/SF	MEM	70	28.8	1.8
+16.3
+6.6
+3.1
+0.7
+0.5
+1.9
+0.24
+128  31	Jaylin Williams	139.6	PF/C	OKC	68	23.1	1.8
+8.5
+6.2
+3.2
+0.6
+0.8
+1.2
+0.24
+129  39	Herbert Jones	139.8	SF/PF	NO	68	29.4	1.3
+9.2
+3.5
+2.9
+1.6
+0.5
+1.4
+0.16
+130  43	Julius Randle	80.6	PF	BKN	75	32.6	1.5
+20.0
+6.9
+4.6
+0.9
+0.2
+2.8
+0.14
+131  10	Quentin Grimes	138.7	SG/SF	LAL	74	30.8	2.1
+15.5
+4.4
+3.5
+1.0
+0.4
+2.0
+0.14
+132  32	Neemias Queta	136.9	C	BOS	75	25.9	0.0
+10.2
+8.2
+1.6
+0.7
+1.3
+1.1
+0.12
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+133  40	Jakob Poeltl	93.9	C	TOR	58	26.5	0.0
+12.4
+8.2
+2.4
+1.0
+1.0
+1.6
+0.10
+134  53	Zion Williamson	43.9	PF/C	NO	60	29.4	0.1
+22.1
+6.2
+3.9
+1.1
+0.7
+2.4
+0.08
+135  22	De'Andre Hunter	139.7	SF/PF	SAC	65	31.5	2.5
+18.6
+4.8
+2.0
+0.9
+0.2
+1.7
+0.08
+136  63	Mark Williams	116.4	C	PHO	62	24.3	0.0
+13.0
+8.8
+1.6
+0.8
+1.0
+1.3
+0.08
+137  11	Bobby Portis	132.0	PF/C	MIA	68	25.1	1.8
+14.1
+7.4
+1.9
+0.7
+0.3
+1.1
+0.07
+138  89	Joel Embiid	50.2	C	PHI	52	29.4	1.1
+22.2
+7.5
+3.0
+0.5
+1.0
+2.9
+0.06
+139  11	Jrue Holiday	134.5	PG/SG	POR	54	28.2	2.0
+12.8
+4.2
+4.6
+1.0
+0.3
+1.8
+0.04
+140  20	Isaiah Joe		SG	DET	70	25.4	3.1
+12.7
+3.1
+1.8
+0.8
+0.2
+0.7
+0.00
+141  7	Aaron Nesmith	139.8	SG/SF	IND	69	30.4	2.4
+14.5
+4.6
+1.8
+0.8
+0.5
+1.3
+0.00
+142  19	Julian Champagnie	138.5	SF/PF	SA	75	26.5	2.4
+11.0
+5.0
+1.5
+0.8
+0.5
+0.9
+-0.05
+143  72	Zach LaVine	89.6	SG/SF	SAC	68	32.4	2.9
+21.1
+3.6
+3.4
+0.7
+0.2
+2.4
+-0.10
+144  40	Royce O'Neale		SF/PF	CHA	70	24.6	2.4
+8.9
+4.4
+2.3
+0.9
+0.4
+1.0
+-0.13
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+145  48	Coby White	64.6	PG/SG	CHA	72	31.0	2.7
+19.5
+3.6
+4.3
+0.8
+0.2
+2.5
+-0.14
+146  26	Kevin Porter Jr.	95.3	PG/SG	MIL	60	24.4	0.9
+12.9
+4.3
+4.8
+1.5
+0.3
+2.2
+-0.26
+147  27	Ace Bailey	130.9	SF/PF	UTA	72	27.9	1.9
+14.1
+4.3
+1.9
+0.9
+0.7
+1.5
+-0.27
+148  2	Wendell Carter Jr.	139.8	C	ORL	70	29.3	0.8
+11.3
+7.8
+2.1
+0.8
+0.7
+1.3
+-0.29
+149  24	Dillon Brooks	134.5	SG/SF	PHO	63	30.1	2.3
+18.3
+3.6
+1.7
+0.9
+0.2
+1.3
+-0.38
+150  13	Andrew Nembhard	111.1	PG/SG	IND	64	30.4	1.3
+13.6
+3.2
+6.4
+1.1
+0.2
+2.1
+-0.43
+151  19	Kelly Oubre Jr.	137.3	SG/SF	IND	64	28.2	1.2
+12.6
+4.8
+1.5
+1.3
+0.4
+1.2
+-0.47
+152  14	Grayson Allen	139.9	PG/SG	CHA	64	22.0	2.5
+12.2
+2.8
+2.7
+1.0
+0.3
+1.3
+-0.47
+153  26	De'Anthony Melton	140.0	PG/SG	GS	55	22.2	1.5
+11.9
+3.2
+2.6
+1.5
+0.4
+1.8
+-0.51
+154  59	Miles McBride	139.7	PG/SG	NY	68	25.1	2.2
+10.5
+2.5
+2.8
+1.0
+0.3
+0.7
+-0.53
+155  25	Max Strus	139.9	SF	LAC	68	27.4	2.6
+10.7
+5.0
+3.2
+0.5
+0.2
+1.1
+-0.55
+156  46	Christian Braun	99.6	SG/SF	DEN	72	31.8	1.0
+13.8
+4.9
+2.6
+0.9
+0.4
+1.0
+-0.59
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+157  33	Alex Caruso	138.7	PG/SG	OKC	58	19.4	1.1
+6.9
+3.0
+2.4
+1.5
+0.5
+0.8
+-0.61
+158  29	Duncan Robinson		SG/SF	DET	76	28.4	3.0
+12.9
+2.7
+2.5
+0.6
+0.2
+1.0
+-0.62
+159  32	Cam Spencer		PG/SG	MEM	65	23.8	2.0
+11.1
+2.6
+5.3
+0.8
+0.2
+1.2
+-0.62
+160  5	Darryn Peterson	120.5	PG/SG	UTA	68	29.1	2.0
+15.1
+3.1
+3.0
+1.1
+0.5
+2.0
+-0.63
+161  14	Malik Monk	120.6	PG/SG	SAC	68	26.2	2.0
+14.6
+2.8
+4.2
+0.8
+0.5
+1.9
+-0.64
+162  3	Moussa Diabaté	139.5	PF/C	CHA	72	25.5	0.0
+8.0
+8.8
+1.6
+0.8
+0.9
+1.1
+-0.66
+163  30	Sam Merrill	140.0	SG	CLE	65	25.4	2.7
+10.8
+2.7
+2.2
+0.8
+0.2
+0.7
+-0.69
+164  47	Jordan Goodwin	139.9	PG/SG	PHO	60	21.1	1.4
+7.8
+4.6
+2.0
+1.4
+0.3
+1.0
+-0.70
+165  35	Allen Graves	140.0	SF	TOR	70	22.0	0.8
+8.5
+4.7
+1.3
+1.1
+0.7
+0.5
+-0.71
+166  82	Ja Morant	47.0	PG	POR	62	30.4	1.4
+19.5
+3.4
+6.6
+1.0
+0.2
+3.2
+-0.71
+167  31	Robert Williams III		C	POR	60	17.1	0.1
+6.5
+6.8
+1.0
+0.6
+1.5
+0.8
+-0.74
+168  15	Tobias Harris	120.1	SF/PF	SA	65	26.2	1.1
+12.0
+4.9
+2.1
+0.9
+0.5
+1.0
+-0.77
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+169  58	Tre Jones		PG	CHI	68	25.9	0.6
+12.3
+3.2
+5.3
+1.1
+0.2
+1.3
+-0.81
+170  32	Matisse Thybulle		SF	LAL	50	15.4	1.1
+5.6
+2.2
+1.1
+1.8
+0.5
+0.8
+-0.84
+171  35	Bilal Coulibaly	139.9	SG/SF	WAS	60	25.5	1.0
+10.4
+4.1
+2.6
+1.2
+0.7
+1.6
+-0.84
+172  53	Jonathan Kuminga	139.3	SF/PF	MIN	70	27.4	1.1
+16.2
+5.9
+2.6
+0.8
+0.5
+1.9
+-0.90
+173  19	Kris Dunn		PG/SG	LAC	72	24.5	1.0
+6.6
+3.2
+3.1
+1.6
+0.3
+1.1
+-0.95
+174  2	Jay Huff	139.9	C	IND	74	17.1	1.4
+8.6
+3.2
+1.1
+0.4
+1.5
+0.8
+-0.98
+175  26	Jaime Jaquez Jr.	138.0	SG/SF	MIL	72	29.2	0.8
+14.6
+5.6
+4.4
+1.0
+0.3
+2.1
+-1.00
+176  4	Davion Mitchell	139.3	PG	MIA	73	30.1	1.3
+9.4
+2.7
+6.2
+1.1
+0.2
+1.8
+-1.01
+177	Scotty Pippen Jr.	138.5	PG/SG	MEM	50	20.4	1.1
+9.7
+3.1
+4.3
+1.3
+0.4
+1.8
+-1.02
+178  4	Daniss Jenkins	139.9	PG	DET	72	26.1	1.3
+12.1
+3.0
+5.0
+1.1
+0.3
+2.1
+-1.05
+179  35	Aaron Gordon	123.0	PF	DEN	58	27.9	1.6
+15.3
+5.2
+3.0
+0.5
+0.3
+1.3
+-1.05
+180  6	Jerami Grant	139.0	PF	MEM	50	26.5	2.0
+14.4
+3.0
+1.9
+0.7
+0.7
+1.5
+-1.07
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+181  25	Isaiah Stewart	139.8	PF/C	MEM	64	23.1	0.5
+8.6
+5.9
+1.6
+0.4
+1.5
+1.2
+-1.11
+182  26	Marcus Smart	139.9	PG/SG	HOU	60	25.5	1.5
+9.3
+2.6
+3.1
+1.3
+0.3
+1.5
+-1.14
+183  29	Dereck Lively II	139.8	C	DAL	55	19.8	0.0
+7.3
+6.5
+2.1
+0.5
+1.4
+1.1
+-1.15
+184  13	Max Christie		SG	DAL	75	30.5	2.1
+11.9
+3.6
+2.1
+0.8
+0.4
+1.3
+-1.16
+185  21	Bradley Beal	139.6	SG/SF	LAC	50	27.5	1.7
+13.9
+2.8
+3.0
+0.9
+0.4
+1.7
+-1.17
+186  11	Yaxel Lendeborg	133.5	SF/PF	GS	72	23.5	1.0
+8.8
+5.1
+1.9
+0.6
+0.7
+0.6
+-1.25
+187  42	Ayo Dosunmu	136.8	PG/SG	MIN	73	27.4	1.5
+12.7
+3.2
+3.7
+0.8
+0.3
+1.3
+-1.26
+188  50	Luguentz Dort	139.4	SG/SF	ATL	68	24.8	1.9
+8.3
+3.4
+1.3
+0.9
+0.4
+0.7
+-1.30
+189  27	Tim Hardaway Jr.	139.8	SG/SF	MIA	78	29.0	2.7
+13.2
+2.7
+1.6
+0.6
+0.1
+0.6
+-1.35
+190  7	Anfernee Simons	108.0	PG/SG	PHI	67	25.7	2.6
+15.1
+2.3
+3.3
+0.6
+0.1
+1.5
+-1.37
+191	Rui Hachimura	138.8	SF/PF	LAC	70	30.1	1.8
+12.5
+4.2
+1.1
+0.7
+0.4
+0.7
+-1.38
+192  3	Jared McCain	132.3	PG/SG	OKC	72	27.8	2.4
+14.6
+3.1
+2.4
+0.8
+0.1
+1.5
+-1.38
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+193  10	Dru Smith	140.0	PG	MIA	72	18.1	0.7
+6.2
+2.7
+2.6
+1.6
+0.4
+0.9
+-1.38
+194  2	Derrick Jones Jr.		SF/PF	LAC	58	25.8	1.1
+10.4
+3.5
+1.0
+1.0
+0.7
+0.9
+-1.40
+195  37	Joan Beringer	140.0	C	MIN	69	18.4	0.0
+9.2
+5.4
+0.7
+0.4
+1.5
+0.7
+-1.40
+196  18	Nikola Vucevic	49.5	C	ORL	64	21.2	1.1
+11.0
+6.3
+2.3
+0.5
+0.5
+1.0
+-1.41
+197  68	DeMar DeRozan	55.1	SF/PF	DEN	72	27.8	0.9
+16.2
+2.7
+2.3
+0.9
+0.4
+1.0
+-1.44
+198  23	Ja'Kobe Walter		SG	TOR	74	24.1	1.7
+9.4
+3.3
+1.6
+1.1
+0.2
+0.8
+-1.46
+199  29	Andre Drummond	139.7	C	NY	68	20.2	0.4
+7.2
+8.7
+1.2
+0.8
+0.7
+1.2
+-1.47
+200  5	Darius Acuff Jr.	136.2	PG	SAC	72	29.1	1.6
+14.5
+1.9
+5.0
+0.6
+0.2
+1.4
+-1.49
+201  19	Moses Moody	139.9	SG/SF	GS	30	22.4	1.9
+10.1
+2.7
+1.4
+0.8
+0.5
+0.8
+-1.54
+202  3	Brook Lopez	139.8	C	LAC	60	20.4	1.3
+8.3
+3.3
+1.2
+0.5
+1.2
+0.7
+-1.55
+203  29	Danny Wolf		PF/C	BKN	67	22.7	1.3
+9.8
+5.4
+2.5
+0.6
+0.6
+1.4
+-1.58
+204	Aaron Wiggins	139.5	SG/SF	ATL	64	22.8	1.7
+11.1
+3.6
+1.8
+0.9
+0.3
+1.1
+-1.58
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+205  31	Sam Hauser	140.0	SF/PF	BOS	74	23.2	2.5
+9.0
+3.5
+1.2
+0.5
+0.2
+0.4
+-1.59
+206  27	Zaccharie Risacher	139.6	SF	DAL	70	24.0	1.6
+11.5
+3.8
+1.2
+0.8
+0.5
+1.1
+-1.59
+207  45	Naji Marshall	139.9	SF/PF	DAL	72	28.1	0.8
+14.1
+4.7
+3.1
+1.1
+0.1
+1.6
+-1.61
+208  7	Jeremiah Fears	138.3	PG/SG	NO	74	24.1	1.2
+13.5
+3.5
+3.2
+1.1
+0.4
+2.1
+-1.63
+209  14	Jaylen Wells		SG/SF	MEM	70	28.4	2.0
+12.5
+3.6
+1.8
+0.8
+0.1
+1.1
+-1.66
+210  14	Al Horford	139.7	PF/C	GS	53	19.4	1.4
+6.8
+4.4
+1.8
+0.5
+0.8
+0.7
+-1.67
+211  30	Daniel Gafford	132.5	C	DAL	64	21.7	0.0
+9.8
+6.4
+1.2
+0.5
+1.2
+1.1
+-1.68
+212  49	Obi Toppin	139.0	PF	IND	60	21.0	1.6
+12.0
+4.6
+2.0
+0.6
+0.3
+1.0
+-1.69
+213  24	Yves Missi	139.9	C	NO	68	22.2	0.0
+7.2
+6.8
+1.3
+0.4
+1.4
+0.9
+-1.69
+214  16	Shaedon Sharpe	116.2	SG/SF	POR	44	26.8	1.8
+16.8
+3.8
+2.3
+0.9
+0.2
+2.1
+-1.76
+215  1	Bones Hyland	139.9	PG	MIN	72	18.9	2.0
+10.2
+2.1
+3.0
+0.8
+0.3
+1.3
+-1.80
+216  1	Keon Ellis		SG/SF	BKN	68	19.2	1.3
+6.5
+2.0
+1.1
+1.2
+0.6
+0.6
+-1.81
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+217  2	Jalen Smith		PF/C	CHI	58	17.1	1.3
+8.9
+6.0
+1.1
+0.3
+0.7
+0.8
+-1.81
+218  19	Scoot Henderson	137.1	PG/SG	POR	60	26.7	1.7
+13.3
+2.9
+4.7
+1.0
+0.2
+2.6
+-1.81
+219  24	Noah Clowney		PF	BKN	64	24.1	1.9
+10.6
+3.9
+1.3
+0.6
+0.6
+1.3
+-1.87
+220  32	Luke Kornet	139.9	C	SA	68	20.0	0.0
+6.4
+5.8
+1.8
+0.5
+1.0
+0.4
+-1.97
+221  28	Precious Achiuwa		PF/C	SAC	72	21.1	0.3
+8.2
+5.9
+1.1
+0.8
+0.7
+0.8
+-2.03
+222  20	Jamal Shead		PG	TOR	76	24.4	1.2
+8.0
+1.9
+5.6
+1.0
+0.2
+1.7
+-2.07
+223  12	Jarace Walker		SF/PF	IND	72	22.2	1.5
+9.6
+4.4
+2.2
+0.8
+0.4
+1.6
+-2.09
+224  41	Klay Thompson	130.7	SG/SF	MIA	60	20.4	2.5
+10.8
+2.3
+1.4
+0.5
+0.3
+0.9
+-2.20
+225  56	Yanic Konan Niederhauser	140.0	C	LAC	50	21.4	0.1
+9.0
+6.0
+0.6
+0.3
+1.5
+1.2
+-2.28
+226  20	Dylan Cardwell	139.9	C	SAC	50	15.9	0.0
+4.2
+5.9
+1.1
+0.5
+1.2
+0.7
+-2.32
+227  8	Will Richard	139.9	SG/SF	GS	72	22.1	1.2
+7.2
+2.8
+1.5
+1.3
+0.2
+0.9
+-2.32
+228  11	Kyle Anderson		SF/PF	TOR	61	18.8	0.3
+6.4
+3.6
+2.8
+0.9
+0.6
+0.8
+-2.33
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+229  7	Dennis Schröder	139.2	PG	CHA	70	20.1	1.3
+11.1
+2.5
+4.8
+0.8
+0.2
+1.7
+-2.33
+230  18	Keldon Johnson	139.6	SF/PF	SA	76	23.0	1.2
+12.8
+5.0
+1.5
+0.6
+0.2
+0.9
+-2.33
+231  20	Kevin Huerter		SG/SF	DET	60	19.5	1.4
+8.4
+2.7
+2.0
+0.8
+0.3
+0.9
+-2.41
+232  15	Isaac Okoro		SG/SF	CHI	68	25.8	1.2
+8.7
+2.9
+1.6
+0.7
+0.4
+0.7
+-2.43
+233  26	Brice Sensabaugh	139.4	SG/SF	UTA	74	21.7	2.2
+13.0
+3.0
+1.7
+0.7
+0.1
+1.6
+-2.51
+234  47	Ryan Dunn		SF/PF	PHO	70	20.1	1.0
+6.7
+4.1
+1.2
+0.8
+0.5
+0.7
+-2.51
+235  18	Nique Clifford		SG/SF	SAC	72	26.1	1.1
+9.0
+4.0
+2.5
+1.0
+0.3
+1.6
+-2.52
+236  42	Mikel Brown Jr.	139.6	PG	BKN	69	28.8	1.9
+13.5
+2.5
+3.5
+0.9
+0.1
+2.3
+-2.56
+237  6	Jaylon Tyson	140.0	SG/SF	CLE	70	21.4	1.5
+9.9
+4.1
+1.8
+0.6
+0.3
+1.2
+-2.61
+238  44	Dean Wade	139.8	PF	PHI	65	20.2	1.2
+5.3
+3.9
+1.3
+0.7
+0.3
+0.3
+-2.64
+239  12	Charles Bassey	140.0	C	GS	55	14.4	0.0
+6.4
+5.8
+0.7
+0.5
+1.1
+0.8
+-2.66
+240  55	Ryan Kalkbrenner		C	CHA	68	19.2	0.0
+6.8
+4.9
+0.7
+0.4
+1.3
+0.8
+-2.67
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+241  33	Mouhamed Gueye		PF	ATL	70	15.7	0.6
+5.0
+3.8
+0.9
+0.8
+0.7
+0.4
+-2.70
+242  13	Goga Bitadze		C	ORL	65	15.2	0.0
+5.6
+5.0
+1.4
+0.6
+1.0
+0.7
+-2.71
+243  11	Jake LaRavia		SF/PF	LAL	70	18.8	0.8
+6.7
+3.5
+1.8
+1.0
+0.4
+1.0
+-2.84
+244  28	Jarred Vanderbilt		SF/PF	LAL	67	19.4	0.4
+5.0
+5.4
+1.4
+1.0
+0.3
+1.0
+-2.84
+245  11	Ziaire Williams		SG/SF	LAL	65	18.6	1.3
+8.0
+2.8
+1.0
+0.9
+0.3
+0.8
+-2.88
+246  2	Ron Holland II		SF/PF	DET	76	21.2	0.7
+8.8
+4.1
+1.4
+1.1
+0.3
+1.3
+-2.90
+247  39	Steven Adams	139.8	C	HOU	55	19.8	0.0
+5.4
+7.9
+1.5
+0.6
+0.6
+1.2
+-2.93
+248  81	Collin Sexton	138.8	PG/SG	LAL	70	25.4	1.5
+14.6
+2.2
+3.2
+0.8
+0.1
+2.0
+-2.94
+249  8	Keaton Wagler	139.4	PG/SG	LAC	70	26.4	1.4
+10.5
+3.0
+2.5
+0.5
+0.2
+1.1
+-2.95
+250  32	Gary Payton II	140.0	SG	GS	74	16.4	0.5
+7.6
+3.6
+1.7
+1.0
+0.3
+0.8
+-3.03
+251  18	Quinten Post	140.0	PF/C	MEM	64	16.4	1.5
+7.7
+3.7
+1.4
+0.4
+0.5
+0.8
+-3.05
+252  22	Adem Bona	139.9	C	PHI	72	18.4	0.0
+5.9
+4.8
+0.5
+0.5
+1.3
+1.0
+-3.06
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+253  56	Maxime Raynaud	139.8	C	SAC	72	23.2	0.3
+11.0
+6.6
+1.2
+0.5
+0.5
+1.1
+-3.06
+254  9	Pelle Larsson	140.0	SG/SF	MIA	71	24.4	0.9
+9.7
+3.1
+2.8
+0.8
+0.2
+1.2
+-3.08
+255	Justin Champagnie	140.0	SF/PF	WAS	60	15.4	0.7
+6.5
+4.2
+0.8
+0.7
+0.5
+0.6
+-3.08
+256  62	Rasheer Fleming	139.9	PF	PHO	69	19.1	1.3
+6.8
+3.6
+0.5
+0.6
+0.6
+0.8
+-3.08
+257  5	Tristan da Silva		SF/PF	ORL	70	22.2	1.3
+8.2
+3.4
+1.5
+0.6
+0.3
+0.8
+-3.10
+258  29	Landry Shamet	139.8	SG	NY	65	22.6	2.0
+9.0
+1.8
+1.2
+0.6
+0.1
+0.6
+-3.12
+259  50	Bennedict Mathurin	129.9	SG/SF	NO	60	24.4	1.1
+13.8
+4.4
+1.7
+0.6
+0.2
+1.7
+-3.13
+260  20	Jordan Poole	94.1	PG/SG	NO	50	18.0	1.9
+11.2
+1.6
+2.5
+0.6
+0.3
+1.6
+-3.15
+261  51	Deandre Ayton	116.3	C	WAS	68	20.2	0.0
+9.5
+6.3
+0.8
+0.5
+0.7
+1.0
+-3.18
+262  12	Brayden Burries	139.6	SG	MIL	69	22.8	1.1
+10.2
+2.8
+1.4
+0.9
+0.1
+0.9
+-3.19
+263  4	Tre Johnson	140.0	SG	WAS	65	22.2	1.8
+11.4
+2.6
+1.9
+0.5
+0.3
+1.5
+-3.24
+264  23	AJ Dybantsa	97.8	SF	WAS	70	30.3	0.8
+15.4
+4.2
+2.2
+0.7
+0.2
+1.9
+-3.25
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+265  31	Luke Kennard		SG	PHO	70	20.0	1.5
+7.9
+2.3
+2.5
+0.7
+0.1
+0.9
+-3.26
+266  40	T.J. McConnell	118.2	PG	IND	50	15.5	0.2
+8.2
+2.1
+4.2
+0.9
+0.2
+1.1
+-3.31
+267  6	Kyle Filipowski	139.2	PF/C	UTA	70	16.8	0.8
+8.0
+5.1
+1.7
+0.6
+0.3
+1.2
+-3.32
+268  16	AJ Green		SG	MIL	65	22.2	2.2
+7.7
+2.2
+1.5
+0.4
+0.1
+0.7
+-3.39
+269  9	Jordan Walsh	139.9	SF	BOS	67	18.4	0.7
+5.1
+3.9
+0.8
+0.7
+0.5
+0.6
+-3.45
+270  12	Kasparas Jakucionis	140.0	PG	MIL	60	18.4	1.3
+6.5
+2.7
+2.7
+0.7
+0.1
+1.0
+-3.49
+271  21	Hugo González	139.9	SF	BOS	72	19.2	0.8
+5.2
+4.4
+0.7
+0.8
+0.4
+0.7
+-3.49
+272  20	Moritz Wagner		C	BKN	60	16.4	0.8
+10.6
+4.4
+1.2
+0.7
+0.2
+1.1
+-3.53
+273	Dominick Barlow	139.8	PF/C	PHI	65	18.4	0.3
+6.2
+3.8
+1.0
+0.7
+0.6
+0.6
+-3.53
+274  10	Isaiah Jackson		PF/C	LAC	50	14.8	0.0
+6.1
+4.8
+0.9
+0.6
+0.9
+1.0
+-3.56
+275  26	Taylor Hendricks	140.0	PF	MEM	60	15.8	0.9
+6.1
+3.2
+0.8
+0.7
+0.5
+0.7
+-3.58
+276  7	Kenrich Williams	140.0	SF	OKC	60	17.4	1.0
+7.1
+3.8
+1.6
+0.7
+0.1
+0.7
+-3.58
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+277  7	Grant Williams		PF	CHA	50	17.4	1.2
+6.2
+3.3
+1.4
+0.5
+0.5
+0.9
+-3.59
+278  1	Kentavious Caldwell-Pope	139.8	SG/SF	PHI	68	20.1	1.0
+6.6
+1.8
+1.7
+0.9
+0.3
+0.7
+-3.63
+279  30	Jevon Carter	140.0	PG	ORL	60	15.4	1.5
+6.4
+1.7
+1.7
+0.7
+0.2
+0.6
+-3.64
+280  20	Nikola Jovic	139.2	PF	MIA	61	18.0	1.1
+7.8
+3.1
+2.2
+0.6
+0.3
+1.2
+-3.66
+281  13	Simone Fontecchio	140.0	SF	MIA	72	17.8	1.5
+7.9
+3.2
+1.3
+0.5
+0.2
+0.8
+-3.68
+282  20	Spencer Jones	140.0	SF/PF	DEN	68	19.1	0.8
+5.0
+3.0
+0.7
+0.8
+0.4
+0.5
+-3.69
+283  20	Marvin Bagley III	139.9	PF/C	DEN	58	17.1	0.3
+8.4
+5.0
+1.1
+0.4
+0.6
+0.8
+-3.69
+284  11	Kyle Kuzma	139.0	SF/PF	MIL	60	22.0	1.1
+11.0
+4.1
+2.0
+0.5
+0.3
+1.6
+-3.70
+285  13	Javonte Green	140.0	SF	DET	70	14.8	0.8
+5.1
+2.5
+0.6
+0.9
+0.3
+0.4
+-3.74
+286  20	Javon Small	140.0	PG	MEM	40	15.1	1.1
+7.3
+2.4
+2.8
+0.6
+0.2
+1.0
+-3.76
+287  43	Zach Collins		C	CHI	40	15.8	0.6
+6.9
+4.7
+1.7
+0.4
+0.5
+1.0
+-3.77
+288  13	Harrison Barnes		SF/PF	SA	64	20.2	1.4
+8.6
+2.5
+1.4
+0.4
+0.1
+0.5
+-3.83
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+289  42	Moussa Cisse	140.0	C	DAL	44	12.1	0.0
+3.9
+5.0
+0.2
+0.4
+1.0
+0.7
+-3.83
+290  32	Trey Lyles	140.0	PF	MIN	60	16.4	1.0
+5.5
+3.9
+1.0
+0.5
+0.3
+0.5
+-3.84
+291	Craig Porter Jr.	140.0	PG/SG	CLE	60	14.9	0.5
+4.3
+2.6
+2.5
+0.7
+0.5
+0.9
+-3.92
+292  16	Thomas Bryant	140.0	C	CLE	60	13.4	0.8
+6.4
+3.6
+0.7
+0.4
+0.5
+0.5
+-3.96
+293  35	Patrick Williams		PF	CHI	70	18.4	1.2
+6.5
+2.8
+1.4
+0.6
+0.4
+1.0
+-3.97
+294  2	Bub Carrington	139.9	PG/SG	WAS	74	20.4	1.3
+7.3
+2.7
+3.3
+0.5
+0.2
+1.5
+-4.02
+295  28	Karlo Matkovic	140.0	PF	NO	60	13.7	0.5
+5.5
+3.6
+0.8
+0.4
+0.8
+0.6
+-4.02
+296  8	Terance Mann		SG/SF	BKN	55	20.1	0.8
+6.7
+2.8
+2.2
+0.6
+0.2
+0.8
+-4.02
+297  6	Vít Krejcí	140.0	PG	POR	60	15.5	1.3
+5.9
+1.9
+1.5
+0.5
+0.3
+0.6
+-4.02
+298  30	Kobe Sanders	140.0	SG	LAC	65	21.4	1.3
+7.8
+2.4
+1.7
+0.8
+0.2
+1.3
+-4.03
+299  6	Tyus Jones	139.9	PG	DEN	72	16.8	1.1
+5.5
+1.5
+3.2
+0.6
+0.1
+0.6
+-4.04
+300  8	Jose Alvarado	139.4	PG	NY	70	14.1	1.1
+5.7
+1.6
+2.6
+0.7
+0.1
+0.9
+-4.06
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+301  30	Walter Clayton Jr.		PG/SG	MEM	64	18.8	1.0
+7.2
+1.9
+3.8
+0.6
+0.3
+1.6
+-4.07
+302  42	Leonard Miller	140.0	SF	CHI	50	16.5	0.7
+8.5
+4.3
+0.9
+0.4
+0.4
+0.8
+-4.08
+303  16	Clint Capela		C	HOU	55	12.4	0.0
+4.6
+4.9
+0.7
+0.4
+0.7
+0.5
+-4.18
+304  27	Jaxson Hayes		C	UTA	64	15.8	0.0
+6.1
+3.8
+0.8
+0.4
+0.7
+0.5
+-4.25
+305  2	Jock Landale	139.9	C	ATL	67	15.1	0.7
+7.0
+4.0
+1.2
+0.4
+0.4
+0.6
+-4.25
+306  15	Ben Sheppard		SG/SF	IND	64	18.1	1.1
+5.5
+2.6
+1.4
+0.5
+0.1
+0.4
+-4.26
+307  27	Luka Garza	139.9	C	BOS	65	14.8	0.7
+7.8
+3.8
+0.9
+0.4
+0.4
+0.7
+-4.30
+308  8	Cam Whitmore	139.4	SF/PF	CLE	50	14.4	1.0
+8.3
+2.6
+0.8
+0.6
+0.3
+0.8
+-4.31
+309  3	GG Jackson II		PF	MEM	40	15.4	0.9
+8.5
+3.1
+1.1
+0.4
+0.5
+1.1
+-4.32
+310  21	Khaman Maluach		C	PHO	60	14.1	0.2
+4.8
+4.6
+0.2
+0.2
+1.1
+0.9
+-4.33
+311  18	Josh Minott	140.0	SF	BKN	48	11.4	0.9
+5.3
+2.2
+0.7
+0.6
+0.4
+0.6
+-4.36
+312	Nae'Qwan Tomlin	140.0	PF	CLE	65	14.4	0.4
+5.6
+2.8
+0.8
+0.6
+0.5
+0.4
+-4.37
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+313  21	Carter Bryant	139.1	SF	SA	70	15.4	1.0
+5.7
+3.4
+0.9
+0.3
+0.4
+0.6
+-4.41
+314  17	Morez Johnson Jr.	139.6	PF/C	DAL	50	18.5	0.2
+7.1
+4.2
+0.6
+0.4
+0.6
+0.7
+-4.47
+315  10	Buddy Hield	139.9	SG/SF	ATL	44	13.2	1.4
+6.5
+1.9
+1.0
+0.5
+0.2
+0.7
+-4.50
+316  17	Isaiah Collier	138.5	PG	UTA	65	18.0	0.4
+7.1
+2.1
+4.7
+0.7
+0.2
+1.9
+-4.50
+317  7	Nolan Traoré		PG	BKN	64	19.0	0.9
+7.7
+1.5
+3.3
+0.7
+0.4
+2.0
+-4.51
+318  20	Josh Okogie	140.0	SF	UTA	60	14.1	0.7
+4.6
+2.3
+0.7
+0.8
+0.2
+0.5
+-4.53
+319  34	Khris Middleton	139.9	SF/PF	WAS	40	16.4	0.8
+7.8
+2.7
+2.4
+0.6
+0.1
+1.2
+-4.57
+320  15	Noah Penda	140.0	PF	ORL	60	14.1	0.6
+4.3
+3.5
+1.3
+0.6
+0.3
+0.8
+-4.60
+321  17	Terrence Shannon Jr.		SG	MIN	68	20.4	1.0
+8.7
+2.2
+1.6
+0.5
+0.1
+0.9
+-4.63
+322  9	Julian Strawther	140.0	SF	DEN	68	16.9	1.2
+7.6
+2.0
+1.1
+0.5
+0.2
+0.7
+-4.63
+323  8	Svi Mykhailiuk	140.0	SG	UTA	40	17.1	1.5
+7.2
+1.9
+1.5
+0.4
+0.1
+0.9
+-4.64
+324  34	Jordan Miller		SF	LAC	20	17.4	0.5
+7.8
+2.5
+1.8
+0.7
+0.2
+0.9
+-4.66
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+325  8	Jordan Clarkson	139.5	SG/SF	NY	68	16.7	1.2
+9.2
+1.8
+1.8
+0.5
+0.1
+1.1
+-4.74
+326  3	Baylor Scheierman	139.9	SG	BOS	70	15.0	1.0
+4.5
+2.8
+1.3
+0.5
+0.1
+0.5
+-4.79
+327  3	Justin Edwards	139.8	SF	PHI	60	14.1	0.9
+5.6
+1.6
+1.0
+0.7
+0.2
+0.6
+-4.79
+328  35	Micah Peavy	140.0	SF	NO	60	15.6	0.5
+4.5
+2.0
+1.1
+0.7
+0.2
+0.4
+-4.82
+329  6	Daeqwon Plowden	140.0	SG	SAC	30	16.4	1.3
+7.0
+2.0
+0.8
+0.4
+0.1
+0.5
+-4.82
+330  10	Will Riley	140.0	SF	WAS	68	17.4	0.8
+8.2
+2.3
+1.6
+0.6
+0.1
+1.0
+-4.83
+331  14	Jaylen Clark		SG	MIN	67	14.1	0.6
+4.4
+1.8
+0.7
+0.8
+0.1
+0.3
+-4.85
+332  1	Aday Mara	139.4	C	OKC	44	13.1	0.0
+5.1
+2.8
+1.0
+0.1
+1.1
+0.8
+-4.86
+333  22	Jeremy Sochan		PF	POR	50	14.4	0.3
+6.2
+3.6
+1.3
+0.5
+0.3
+0.8
+-4.93
+334  7	Oso Ighodaro	140.0	PF	PHO	72	15.1	0.0
+4.2
+3.4
+1.4
+0.5
+0.5
+0.8
+-4.98
+335  1	Mike Conley	140.0	PG	BOS	40	12.6	0.9
+3.8
+1.3
+2.2
+0.5
+0.1
+0.5
+-4.99
+336  5	Caris LeVert		SG/SF	MIL	50	12.1	0.7
+5.4
+1.4
+1.7
+0.5
+0.3
+0.7
+-5.00
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+337  2	Zeke Nnaji	139.9	PF/C	DEN	50	12.5	0.3
+3.8
+2.3
+0.5
+0.4
+0.6
+0.4
+-5.02
+338  4	Sion James	140.0	SF	CHA	68	16.4	0.8
+4.0
+2.6
+1.5
+0.5
+0.2
+0.6
+-5.08
+339  25	Tristan Vukcevic		PF	WAS	40	10.4	0.8
+6.8
+2.5
+0.8
+0.3
+0.5
+0.9
+-5.09
+340  20	Kevon Looney	140.0	C	LAL	20	10.4	0.0
+2.9
+4.2
+1.1
+0.4
+0.3
+0.4
+-5.11
+341  4	Bogdan Bogdanovic		SG/SF	HOU	40	14.2	1.1
+6.0
+1.7
+1.6
+0.4
+0.1
+0.8
+-5.24
+342  10	Mohamed Diawara	139.9	PF	NY	70	14.1	1.1
+5.5
+2.1
+1.2
+0.4
+0.1
+0.7
+-5.26
+343  17	Cameron Carr	139.8	SG/SF	LAL	68	15.4	0.8
+6.5
+2.0
+0.9
+0.3
+0.5
+0.8
+-5.27
+344  20	Gary Trent Jr.		SG/SF	MIL	40	14.0	1.3
+5.9
+1.0
+0.7
+0.5
+0.0
+0.4
+-5.28
+345  3	Nate Ament	139.8	SF	MIL	50	17.4	0.6
+7.3
+2.8
+1.0
+0.4
+0.3
+1.0
+-5.35
+346  10	Larry Nance Jr.		PF	IND	40	10.4	0.6
+3.9
+2.3
+0.8
+0.5
+0.2
+0.4
+-5.39
+347  20	Ron Harper Jr.	139.9	SG	BOS	40	10.4	0.9
+4.0
+1.7
+0.8
+0.3
+0.3
+0.3
+-5.41
+348  16	Quenton Jackson		PG/SG	IND	30	12.4	0.6
+6.0
+1.6
+1.9
+0.5
+0.1
+0.8
+-5.46
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+349  2	Rob Dillingham	139.9	PG	CHI	60	14.9	0.7
+6.4
+1.8
+2.4
+0.7
+0.1
+1.6
+-5.51
+350  3	Bryce McGowens	140.0	SG	NO	44	14.4	0.6
+5.6
+1.5
+1.0
+0.5
+0.1
+0.3
+-5.53
+351  18	Trayce Jackson-Davis		PF	TOR	44	10.4	0.0
+4.2
+3.3
+1.0
+0.3
+0.5
+0.5
+-5.53
+352  9	Josh Green	140.0	SG	MIN	65	14.2	0.8
+4.1
+1.5
+0.8
+0.6
+0.1
+0.6
+-5.55
+353  29	Dailyn Swain	140.0	SF	CHI	50	16.1	0.3
+6.3
+2.8
+1.3
+0.6
+0.1
+1.0
+-5.56
+354  14	Drake Powell	140.0	SG	BKN	60	18.2	0.7
+5.7
+1.6
+1.3
+0.5
+0.2
+0.8
+-5.58
+355  23	Jordan Hawkins		SG	NO	40	13.5	1.1
+5.8
+1.7
+0.7
+0.3
+0.2
+0.6
+-5.61
+356  3	Jase Richardson	140.0	SG	ORL	58	14.4	0.7
+5.9
+1.6
+1.4
+0.5
+0.1
+0.6
+-5.62
+357  6	Ryan Nembhard	139.9	PG/SG	ATL	50	14.1	0.6
+4.8
+1.6
+3.8
+0.3
+0.0
+1.0
+-5.63
+358  4	Karim Lopez	139.9	SF	MEM	50	12.4	0.4
+4.4
+2.2
+0.7
+0.4
+0.4
+0.5
+-5.63
+359  9	Taurean Prince		SF	DET	30	12.8	1.0
+4.2
+1.7
+0.9
+0.4
+0.1
+0.5
+-5.66
+360  17	Oscar Tshiebwe	140.0	C	HOU	20	10.4	0.0
+4.8
+4.5
+0.6
+0.4
+0.1
+0.5
+-5.66
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+361  17	Tyrese Proctor	140.0	SG	CLE	50	11.1	1.0
+5.6
+1.3
+1.5
+0.5
+0.0
+0.8
+-5.70
+362  13	Johnny Furphy	140.0	SG	IND	40	12.1	0.5
+3.4
+2.7
+0.7
+0.5
+0.2
+0.5
+-5.71
+363  20	Sidy Cissoko	140.0	SG	POR	60	14.4	0.6
+3.9
+1.8
+1.2
+0.5
+0.2
+0.8
+-5.75
+364  2	Gradey Dick	139.5	SG/SF	LAC	68	12.8	0.8
+6.0
+1.7
+0.7
+0.5
+0.1
+0.6
+-5.76
+365  10	Marcus Sasser	140.0	PG	DAL	50	10.5	0.9
+4.8
+0.9
+1.7
+0.5
+0.1
+0.7
+-5.76
+366  10	Cody Williams	139.9	SG	UTA	67	16.1	0.4
+5.0
+1.9
+1.2
+0.5
+0.3
+0.7
+-5.83
+367  1	John Konchar	139.9	SG	UTA	40	8.1	0.3
+1.8
+1.9
+0.8
+0.6
+0.3
+0.3
+-5.85
+368  10	Kingston Flemings	139.8	PG/SF	ATL	50	13.8	0.4
+5.2
+1.3
+1.7
+0.5
+0.1
+0.6
+-5.87
+369  1	Olivier-Maxence Prosper	140.0	PF	MEM	30	10.4	0.5
+4.9
+2.1
+0.6
+0.4
+0.1
+0.4
+-5.87
+370  21	Christian Anderson	140.0	PG	CHA	68	14.9	0.9
+5.1
+1.0
+2.0
+0.4
+0.1
+0.9
+-5.91
+371  25	DaRon Holmes II	140.0	PF	DEN	40	10.4	1.0
+4.7
+1.8
+0.8
+0.1
+0.3
+0.6
+-5.92
+372  18	Tidjane Salaün	140.0	PF	CHA	40	12.4	0.7
+4.0
+3.0
+0.7
+0.3
+0.1
+0.6
+-5.95
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+373  1	Tyler Kolek	139.8	PG	NY	40	10.4	0.6
+3.6
+1.3
+2.5
+0.4
+0.1
+0.8
+-6.05
+374  17	Labaron Philon Jr.	139.5	PG/SG	PHI	50	12.1	0.7
+6.5
+1.1
+1.5
+0.4
+0.1
+0.7
+-6.10
+375  2	Pat Spencer	139.9	PG/SG	PHO	20	10.4	0.5
+4.1
+1.5
+2.0
+0.4
+0.1
+0.7
+-6.11
+376  4	Ousmane Dieng	140.0	SF	MIL	40	10.8	0.6
+4.2
+1.9
+1.2
+0.3
+0.2
+0.7
+-6.18
+377  4	Branden Carlson	140.0	C	POR	40	6.5	0.5
+3.3
+1.6
+0.4
+0.1
+0.4
+0.2
+-6.24
+378  1	Jamal Cain	140.0	SF	ORL	20	10.4	0.6
+4.4
+1.7
+0.5
+0.4
+0.1
+0.4
+-6.26
+379  3	Tre Mann		PG/SG	WAS	40	10.4	0.8
+5.0
+1.4
+1.3
+0.3
+0.1
+0.8
+-6.27
+380  16	Caleb Martin		SG	DAL	40	10.4	0.3
+3.0
+1.6
+0.9
+0.4
+0.2
+0.5
+-6.40
+381  7	Dalton Knecht	140.0	SG/SF	LAL	50	10.2	0.8
+4.7
+1.5
+0.4
+0.2
+0.1
+0.3
+-6.44
+382  5	Myron Gardner	140.0	SF	MIA	30	6.4	0.4
+2.6
+1.9
+0.7
+0.3
+0.1
+0.3
+-6.47
+383  13	Hannes Steinbach	139.9	PF	CHA	50	10.4	0.1
+4.2
+2.7
+0.4
+0.3
+0.3
+0.5
+-6.48
+384  8	Dorian Finney-Smith		PF	CHA	40	10.4	0.7
+2.9
+1.5
+0.5
+0.3
+0.1
+0.3
+-6.51
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+385  1	Meleek Thomas	139.6	SG	CLE	30	10.4	0.6
+4.0
+1.0
+0.6
+0.4
+0.1
+0.3
+-6.51
+386  12	Micah Potter	139.9	C	POR	40	8.8	0.6
+3.4
+2.2
+0.6
+0.2
+0.2
+0.4
+-6.58
+387  7	Malevy Leons		 	GS	20	8.4	0.1
+2.4
+1.6
+0.7
+0.4
+0.3
+0.4
+-6.63
+388  15	Devin Carter	140.0	PG	ATL	30	7.8	0.4
+3.4
+1.4
+1.0
+0.4
+0.1
+0.5
+-6.63
+389  3	Corey Kispert		SG/SF	ATL	40	10.1	0.8
+4.7
+1.2
+0.7
+0.2
+0.1
+0.4
+-6.66
+390  9	Adou Thiero	140.0	SF	LAL	50	10.4	0.1
+3.3
+2.0
+0.7
+0.5
+0.1
+0.6
+-6.72
+391  20	Ben Saraf	140.0	SG	BKN	50	12.8	0.3
+4.7
+1.3
+2.1
+0.5
+0.1
+1.4
+-6.73
+392  27	Jericho Sims	140.0	C	MIL	35	12.4	0.0
+2.8
+3.6
+0.9
+0.2
+0.2
+0.7
+-6.73
+393	Jabari Walker	139.9	PF	PHI	20	8.1	0.3
+3.2
+2.2
+0.4
+0.3
+0.1
+0.3
+-6.74
+394  3	Asa Newell		PF	ATL	34	7.4	0.4
+3.4
+1.4
+0.4
+0.2
+0.2
+0.3
+-6.76
+395  16	Sergio de Larrea	139.8	PG	DAL	40	10.8	0.6
+3.9
+1.2
+1.5
+0.3
+0.1
+0.8
+-6.77
+396  1	Jamison Battle	140.0	SF	TOR	50	8.5	0.8
+3.4
+1.4
+0.4
+0.1
+0.1
+0.3
+-6.85
+R#	PLAYER	ADP	POS	TEAM	GP	MPG	3PM	PTS	TREB	AST	STL	BLK	TO	TOTAL
+397	L.J. Cryer		 	GS	20	8.4	1.1
+4.3
+0.8
+0.5
+0.1
+0.0
+0.4
+-6.90
+398  13	Ariel Hukporti	139.9	C	PHI	40	8.4	0.0
+2.0
+2.5
+0.5
+0.1
+0.5
+0.6
+-6.94
+399  2	Rayan Rupert	139.9	SG	PHI	30	8.4	0.3
+2.7
+1.4
+0.5
+0.4
+0.1
+0.5
+-7.05
+400  30	Noa Essengue		PF	CHI	20	4.8	0.0
+0.0
+0.0
+0.0
+0.8
+0.0
+0.0
+-7.13
+401  3	Jaden Hardy	140.0	SG	LAL	30	8.1	0.8
+4.6
+0.8
+0.6
+0.2
+0.1
+0.7
+-7.15
+402  13	Nikola Topic	140.0	PG	OKC	20	12.2	0.5
+4.0
+1.5
+3.4
+0.4
+0.0
+1.9
+-7.16
+403  2	Baba Miller	140.0	PF	LAC	20	8.4	0.1
+2.6
+2.1
+0.7
+0.1
+0.2
+0.4
+-7.17
+404  2	Jamaree Bouyea	140.0	PG	PHO	20	6.1	0.2
+2.4
+0.8
+0.8
+0.3
+0.2
+0.3
+-7.21
+405  5	Emanuel Sharp	140.0	SG	SAC	40	8.4	0.6
+3.3
+0.6
+0.4
+0.3
+0.0
+0.2
+-7.22
+406  3	Chris Cenac Jr.	139.9	PF/C	BOS	40	8.4	0.2
+2.4
+2.0
+0.2
+0.2
+0.1
+0.2
+-7.24
+407	Jae'Sean Tate	140.0	SF	HOU	40	7.4	0.2
+2.4
+1.4
+0.5
+0.3
+0.1
+0.3
+-7.29
+408  10	Bruce Thornton	140.0	PG	HOU	30	8.4	0.3
+3.4
+0.9
+0.7
+0.2
+0.1
+0.2
+-7.30
+409  7	Alex Karaban	139.9	SF/PF	SAC	40	8.4	0.4
+2.4
+1.0
+0.4
+0.2
+0.2
+0.2
+-7.37
+410  12	Pacôme Dadiet	139.9	SF	NY	40	6.8	0.4
+2.2
+1.3
+0.5
+0.2
+0.1
+0.2
+-7.38
+411  3	Yang Hansen		C	POR	58	10.4	0.2
+3.3
+2.3
+0.8
+0.1
+0.4
+1.1
+-7.38
+412  2	Joshua Jefferson	140.0	SF/PF	BKN	10	6.1	0.2
+2.4
+1.1
+0.7
+0.2
+0.1
+0.4
+-7.46
+413  1	Bronny James Jr.	137.7	PG/SG	LAL	30	5.8	0.3
+1.9
+0.4
+0.8
+0.3
+0.1
+0.4
+-7.60
+414  3	Ryan Conwell	140.0	SG	MIA	30	6.4	0.5
+2.9
+0.7
+0.4
+0.2
+0.0
+0.3
+-7.63
+415  14	Jayden Quaintance	139.9	PF/C	SA	20	8.4	0.0
+1.9
+1.9
+0.2
+0.2
+0.3
+0.6
+-7.63
+416  3	Tarris Reed Jr.	139.9	C	SA	20	4.8	0.0
+1.9
+1.2
+0.3
+0.1
+0.3
+0.3
+-7.64
+417  2	Caleb Love	140.0	SG	PHI	20	5.4	0.5
+2.7
+0.6
+0.7
+0.2
+0.0
+0.3
+-7.65
+418  3	DeAndre Jordan	140.0	C	NO	10	4.4	0.0
+1.3
+1.8
+0.3
+0.1
+0.2
+0.2
+-7.65
+419  7	Isaiah Evans	139.8	SG	MIN	30	5.8	0.4
+2.3
+0.5
+0.2
+0.1
+0.1
+0.2
+-7.68
+420  4	Jordan McLaughlin	140.0	PG	SA	20	4.4	0.3
+1.4
+0.5
+0.7
+0.3
+0.0
+0.2
+-7.76
+421  3	Zuby Ejiofor	140.0	PF	ATL	20	4.4	0.1
+1.8
+0.8
+0.4
+0.1
+0.2
+0.2
+-7.76
+422  2	Koa Peat	139.9	PF	PHO	40	6.7	0.0
+2.6
+1.0
+0.5
+0.1
+0.1
+0.3
+-7.83
+423	Alijah Martin	140.0	SG	TOR	20	4.4	0.1
+1.6
+0.6
+0.4
+0.2
+0.1
+0.2
+-7.84
+424  4	Chaz Lanier	140.0	SG	DET	40	5.5	0.4
+1.7
+0.5
+0.4
+0.2
+0.0
+0.1
+-7.84
+425  8	Trevon Brazile	139.9	SF/PF	DEN	40	4.4	0.1
+1.4
+0.8
+0.2
+0.2
+0.2
+0.1
+-7.85
+426  6	Caleb Houstan	139.9	SF	NO	20	4.4	0.4
+1.5
+0.4
+0.2
+0.1
+0.0
+0.1
+-7.94
+427  2	Cam Christie	140.0	SG	LAC	30	5.4	0.1
+1.8
+0.9
+0.4
+0.2
+0.0
+0.2
+-7.94
+428  7	Bennett Stirtz	140.0	PG	OKC	20	5.4	0.3
+2.1
+0.3
+0.5
+0.2
+0.0
+0.2
+-8.06
+429  2	KJ Simpson	140.0	PG	DEN	20	4.4	0.2
+1.5
+0.6
+0.6
+0.2
+0.0
+0.3
+-8.11
+430  4	Andre Jackson Jr.	140.0	SG	TOR	30	4.4	0.1
+1.1
+0.8
+0.4
+0.2
+0.1
+0.3
+-8.17
+Watch us on  YouTube
+© 2014-2026 Hashtag Basketball
+Terms & Conditions
+Privacy & Cookie Policy
+Contact Us

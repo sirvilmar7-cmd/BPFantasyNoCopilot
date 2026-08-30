@@ -1,0 +1,24 @@
+# Configuracao do Netlify.
+# publish = "." significa que a raiz do repositorio ja e o site pronto,
+# sem etapa de build. Nao ha nada para compilar: e HTML + JSON estaticos.
+[build]
+  publish = "."
+  command = ""
+
+# O service worker precisa ser sempre revalidado, senao o celular fica preso
+# numa versao antiga do app mesmo depois de voce publicar uma nova.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+# Idem para os dados: evita servir estatistica velha do cache do CDN.
+[[headers]]
+  for = "/dados.json"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/hashtag_projecoes_2026_27.json"
+  [headers.values]
+    Cache-Control = "no-cache"

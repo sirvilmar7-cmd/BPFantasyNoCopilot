@@ -1,0 +1,6 @@
+https://dynasty-api-0cav.onrender.com
+https://beautiful-malabi-be1ff4.netlify.app
+python app.py
+python importar_csv.py
+<script data-goatcounter="https://fantasyvilmar.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
